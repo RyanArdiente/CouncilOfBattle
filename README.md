@@ -27,7 +27,7 @@ Full Stack Web Application
 <li>Admin - Username: admin , Password: admin</li>
 <li>Instructor - Username: javachampion , Password: javachampion</li>
 <li>Student - Username: bdobbs , Password: wombat1</li>
-<ol>
+</ol>
 <h4>Progamming Languages</h4>
 <ol>
 <li>Java</li>
