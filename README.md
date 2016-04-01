@@ -20,7 +20,14 @@ Full Stack Web Application
 <li><a href="https://invis.io/5X5ZU14HF">InvisionApp</a></li>
 <li>Eclipse</li>
 </ol>
-
+<h4>How To</h4>
+<p>Admins and Instructors have almost identical functionality except the Admin can create new users.
+</p>
+<ol>
+<li>Admin - Username: admin , Password: admin</li>
+<li>Instructor - Username: javachampion , Password: javachampion</li>
+<li>Student - Username: bdobbs , Password: wombat1</li>
+<ol>
 <h4>Progamming Languages</h4>
 <ol>
 <li>Java</li>
